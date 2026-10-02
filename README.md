@@ -16,6 +16,7 @@
    - Problem-solving exercises with Java
    - Object-Oriented Programming (Java)
    - Data Structures and Algorithms
+   - Exploring the version control
 
 - 🎯 **Goals:**
    - Master the fundamentals of programming
