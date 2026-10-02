@@ -28,8 +28,8 @@
     <th colspan="3"> General Purpose</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"><br><sub><b>Java</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" width="55" alt="C"><br><sub><b>C</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"><br><sub><b>Java</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"><br><sub><b>Git</b></sub></td>
   </tr>
 </table>
