@@ -29,14 +29,28 @@
 
 <div align="center">
 
-| 💻 General Purpose |
-|:---:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+<table align="center">
+  <tr>
+    <th colspan="3">💻 General Purpose</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"><br><sub><b>Java</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="55" alt="C"><br><sub><b>C</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"><br><sub><b>Git</b></sub></td>
+  </tr>
+</table>
 
 <br>
 
-| 🌐 Web Development |
-|:---:|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+<table align="center">
+  <tr>
+    <th colspan="3">🌐 Web Development</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"><br><sub><b>HTML</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS"><br><sub><b>CSS</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td>
+  </tr>
+</table>
 
 </div>
