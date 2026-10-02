@@ -3,7 +3,6 @@
 <p align="center">
   <img src="ucc-logo.png" alt="UCC logo" height="28" align="absmiddle">
   <b>University of Caloocan City - South Main Campus</b><br>
-  💻 Aspiring developer from the Philippines.
 </p>
 
 ## 🌱 What I'm up to
