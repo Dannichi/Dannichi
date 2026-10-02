@@ -10,8 +10,8 @@
 </p>
 
 ## 🌱 What I'm up to
-- 🔭 Currently building: Cognitia (LMS Web System)
-- 📚 Currently learning: Front-End, UI/UX Design, Java Fundamentals
+- 🔭 Currently building: Cognitia (LMS Web System), Mini-Projects built with Java
+- 📚 Currently learning: Front-End, UI/UX Design, Problem solving exercises with Java, Object-Oriented Programming (Java), Data Structures and Algorithm
 - 🎯 Goal: To land an internship or become a junior developer
 
 ## 🛠️ Tech Stack
