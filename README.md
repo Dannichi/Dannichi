@@ -27,6 +27,16 @@
 
 ## 🛠️ Tech Stack
 
-| 💻 General Purpose | 🌐 Web Development |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,c,git" alt="Java, C, Git"> | <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript"> |
+<div align="center">
+
+| 💻 General Purpose |
+|:---:|
+| <img src="https://skillicons.dev/icons?i=java,c,git" alt="Java, C, Git"> |
+
+<br>
+
+| 🌐 Web Development |
+|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript"> |
+
+</div>
