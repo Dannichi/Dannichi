@@ -26,7 +26,7 @@
 
 <table align="left">
   <tr>
-    <th colspan="3">💻 General Purpose</th>
+    <th colspan="3"> General Purpose</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"><br><sub><b>Java</b></sub></td>
@@ -37,7 +37,7 @@
 
 <table align="left">
   <tr>
-    <th colspan="3">🌐 Web Development</th>
+    <th colspan="3"> Web Development</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"><br><sub><b>HTML</b></sub></td>
