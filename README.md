@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Student at the <b>University of Caloocan City</b><br>
-  💻 Aspiring developer from the Philippines 🇵🇭, building my skills one project at a time.
+  💻 Aspiring developer from the Philippines.
 </p>
 
 ## 🌱 What I'm up to
