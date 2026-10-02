@@ -27,9 +27,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<table align="center">
+<table align="left">
   <tr>
     <th colspan="3">💻 General Purpose</th>
   </tr>
@@ -40,9 +38,7 @@
   </tr>
 </table>
 
-<br>
-
-<table align="center">
+<table align="left">
   <tr>
     <th colspan="3">🌐 Web Development</th>
   </tr>
@@ -53,4 +49,4 @@
   </tr>
 </table>
 
-</div>
+<br clear="all">
