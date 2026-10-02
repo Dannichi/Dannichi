@@ -10,9 +10,15 @@
 </p>
 
 ## 🌱 What I'm up to
-- 🔭 Currently building: Cognitia (LMS Web System), Mini-Projects built with Java
-- 📚 Currently learning: Front-End, UI/UX Design, Problem solving exercises with Java, Object-Oriented Programming (Java), Data Structures and Algorithm
-- 🎯 Goal: To land an internship or become a junior developer
+- 🔭 Currently building:
+  1. Cognitia (LMS Web System)
+  2. Mini-Projects built with Java
+- 📚 Currently learning:
+  1. Front-End, UI/UX Design
+  2. Problem solving exercises with Java
+  3. Object-Oriented Programming (Java)
+  4. Data Structures and Algorithm
+- 🎯 Goal:- 🎯 Goal: Build a strong foundation in programming concepts, then grow into full-stack development
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
