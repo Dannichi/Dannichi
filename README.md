@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="ucc-logo.png" alt="University of Caloocan City logo" width="120">
+  <img src="C:\Users\DAN\OneDrive\Pictures\Saved Pictures\logo.png" alt="University of Caloocan City logo" width="120">
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Dan! 👋</h1>
 
 <p align="center">
   🎓 Student at the <b>University of Caloocan City</b><br>
