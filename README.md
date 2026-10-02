@@ -10,10 +10,9 @@
 </p>
 
 ## 🌱 What I'm up to
-- 🔭 Currently building: [project name, e.g., a personal portfolio website]
-- 📚 Currently learning: [e.g., React, Spring Boot, data structures and algorithms]
-- 🎯 Goal: [e.g., land an internship or junior developer role]
-- 💬 Ask me about: HTML, CSS, JavaScript, C, Java
+- 🔭 Currently building: Cognitia (LMS Web System)
+- 📚 Currently learning: Front-End, UI/UX Design, Java Fundamentals
+- 🎯 Goal: To land an internship or become a junior developer
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
