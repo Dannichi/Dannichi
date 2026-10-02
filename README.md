@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="ucc-logo.png" alt="University of Caloocan City logo" width="120">
-</p>
-
 <h1 align="center">Hi, I'm Dan! 👋</h1>
 
 <p align="center">
-  🎓 Student at the <b>University of Caloocan City</b><br>
+  <img src="ucc-logo.png" alt="UCC logo" height="28" align="absmiddle">
+  <b>University of Caloocan City - South Main Campus</b><br>
   💻 Aspiring developer from the Philippines.
 </p>
 
