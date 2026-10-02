@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="University of Caloocan City logo" width="120">
+  <img src="ucc-logo.png" alt="University of Caloocan City logo" width="120">
 </p>
 
 <h1 align="center">Hi, I'm Dan! 👋</h1>
