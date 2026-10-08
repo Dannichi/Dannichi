@@ -19,7 +19,8 @@
    - Front-End and UI/UX Design
    - Problem-solving exercises with Java
    - Object-Oriented Programming (Java)
-   - Data Structures and Algorithms
+   - Data Structures and Algorithms (Java)
+   - Differential Calculus 1
    - Exploring the version control
 
 - 🎯 **Goals:**
