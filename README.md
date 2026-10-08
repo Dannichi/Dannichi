@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dan! 👋</h1>
 
 <p align="center">
-  🎓 <i>Currently studying at</i>
+  🎓Currently studying at
 </p>
 
 <p align="center">
