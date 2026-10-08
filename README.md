@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dan! 👋</h1>
+<h1 align="center">Hellow, I'm Dan! 👋</h1>
 
 <p align="center">
   Currently studying at
